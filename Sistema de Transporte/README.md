@@ -1,6 +1,6 @@
 # Sistema de Transporte
 
-Sistema para estimar o tempo e identificar a quantidade de passageiros de determinadas linhas de transporte público, desenvolvido em 2022 com HTML, CSS, Javascript e PHP, em conjunto com as APIs Maps e Routes da Google.
+Sistema para estimar o tempo e identificar a quantidade de passageiros de determinadas linhas de transporte público, desenvolvido em 2022 com HTML, CSS, JavaScript e PHP, em conjunto com as APIs Maps e Routes da Google.
 
 ## Imagens da Aplicação 
 
