@@ -1,6 +1,6 @@
 # COCOMO 81
 
-Página com formulários para calcular a estimativa do tempo de desenvolvimento de um software realizado em 2021 utilizando HTML, CSS e Javascript.
+Página com formulários para calcular a estimativa do tempo de desenvolvimento de um software realizado em 2021 utilizando HTML, CSS e JavaScript.
 
 ## Imagens da Aplicação 
 
